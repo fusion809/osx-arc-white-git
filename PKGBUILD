@@ -1,11 +1,11 @@
 # Maintainer: Brenton Horne <brentonhorne77 at gmail dot com>
 pkgname=osx-arc-white-git
 _pkgname=OSX-Arc-White
-pkgver=5d7b65d
+pkgver=de6b43e
 pkgrel=1
 pkgdesc="OSX-Arc-White Theme for Cinnamon, GNOME, Unity, Xfce and GTK+"
 arch=(any)
-license=('GPL-3')
+license=('GPL3')
 url="https://github.com/fusion809/${_pkgname}"
 depends=('gtk3' 'gtk2' 'gnome-shell' 'cinnamon')
 makedepends=('git')
